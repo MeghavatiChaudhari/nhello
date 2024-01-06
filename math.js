@@ -10,5 +10,5 @@ function sub(a,b){
 //     sub
 // }
 
-exports.add=(a,b) => a+b;
+exports.add=(a,b) => a+b; //anonymous function 
 
